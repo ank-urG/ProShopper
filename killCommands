@@ -1,0 +1,2 @@
+netstat -ano | findstr :port_number 
+taskkill /PID PID /F 
