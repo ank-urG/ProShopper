@@ -49,6 +49,7 @@ const CartScreen = () => {
     } else {
       navigate(`/login`)
     }
+    //navigate(`/login?redirect=`)
   }
 
   return (
